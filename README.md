@@ -9,7 +9,7 @@
     ```bash
     npm install -g bower gulp nodemon
     ```
-## Running HotTowel
+## Running Project
 
 ### Linting
  - Run code analysis using `gulp vet`. This runs jshint, jscs, and plato.
@@ -29,8 +29,8 @@
 ### Running the optimized code
  - Run the optimize project from the build folder with `gulp serve-build`
 
-## Exploring HotTowel
-HotTowel Angular starter project
+## Exploring the project
+Project Angular starter project
 
 ### Structure
 The structure also contains a gulpfile.js and a server folder. The server is there just so we can serve the app using node. Feel free to use any server you wish.
