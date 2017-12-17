@@ -9,7 +9,7 @@
     ```bash
     npm install -g bower gulp nodemon
     ```
-## Running Project
+## Running the Project
 
 ### Linting
  - Run code analysis using `gulp vet`. This runs jshint, jscs, and plato.
